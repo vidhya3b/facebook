@@ -14,5 +14,5 @@ provider "aws" {
 }
 
 resource "aws_s3_bucket" "big-basket" {
-	bucket = "my-big-basket-class1"
+	bucket = "my-big-basket-class10$#"
 }
